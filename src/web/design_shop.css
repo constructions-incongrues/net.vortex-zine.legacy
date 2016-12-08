@@ -1,0 +1,48 @@
+#paypal{
+    margin-top:-120px;
+    position:relative;
+   width:840px;
+   padding:0px;
+   left:-27px;
+}
+
+td{
+    padding:0px;
+    margin:0px;
+}
+
+.ajouter {
+    width:80px;
+    height:30px;
+}
+
+.afficher{
+    width:80px;
+    height:15px;
+    padding-top:15px;
+    margin-right:5px;
+    float:right;
+}
+
+.prix{
+    padding-top:5px;
+}
+
+#tableau_artiste{
+    position:relative;
+    margin-top:-50px;
+}
+
+
+#tableau_artiste2{
+    position:relative;
+    left:-25px;
+}
+
+
+.colonne_paypal{
+    text-align:right;
+}
+
+
+

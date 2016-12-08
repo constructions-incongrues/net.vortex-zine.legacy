@@ -1,0 +1,282 @@
+body
+{
+    padding:0px;
+    margin:0px;
+    background-image:url(images/divers/backgroundvortex.gif);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    webkit-background-size: cover;
+    moz-background-size: cover;
+    o-background-size: cover;
+    background-size: cover;
+    color:white;
+    font-size:10px;
+    text-align:left;
+    font-family: 'Questrial', sans-serif;
+}
+
+span{
+    font-weight:700;
+}
+
+p{
+    line-height:130%;
+    font-size:110%;
+}
+
+img
+{
+    border:none;
+}
+
+a
+{
+    color:white;
+    text-decoration:none;
+}
+
+h2
+{
+    font-size:160%;
+    padding-bottom:5px;
+    font-weight:lighter;
+    
+}
+
+.bandeau{
+    position:relative;
+    top:-15px;
+    
+}
+
+/* ////////////////////////////////////MENU*/
+
+
+
+#blanc{
+    
+    position:relative;
+    top:-20px;
+}
+
+.menu2
+{
+    width:900px;
+    padding:0px;
+    position:relative;
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+#menu li
+{
+    list-style-type:none;
+    position:relative;
+    font-size:20px;
+    display:inline;
+    float:left;
+
+}
+
+.btn_accueil a
+{
+    background:url(images/divers/btn_accueil.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+.btn_accueil a:hover
+{
+    background:url(images/divers/btn_accueil2.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+.btn_news a
+{
+    background:url(images/divers/btn_news.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+.btn_news a:hover
+{
+    background:url(images/divers/btn_news2.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+.btn_expos a
+{
+    background:url(images/divers/btn_expos.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+.btn_expos a:hover
+{
+    background:url(images/divers/btn_expos2.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+.btn_contact a
+{
+    background:url(images/divers/btn_contact.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+.btn_contact a:hover
+{
+    background:url(images/divers/btn_contact2.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+
+
+
+.btn_shop a
+{
+    background:url(images/divers/btn_shop.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+.btn_shop a:hover
+{
+    background:url(images/divers/btn_shop2.png) no-repeat;
+    display:block;
+    height:30px;
+    width:180px;
+}
+
+/* ////////////////////////////////////MENU FIN*/
+
+
+/* ///////////////////////////////VISIONNEUSE */
+#header
+{
+    width:900px;
+    margin:auto;
+    position:relative;
+    padding-top:30px;
+    padding-bottom:30px;   
+}
+
+#contenu
+{
+    position:relative;
+    top:-60px;
+    width:800px;
+    background-color:#000000;
+    margin:auto;
+    padding:40px;
+    margin-bottom:30px;
+}
+
+.diapo
+{
+    width:800px;
+    position:relative;
+    margin:auto;
+    
+}
+
+#simplegallery1{
+    
+    z-index:1;
+}
+
+#footer{
+    
+    z-index:2;
+}
+
+/* ///////////////////////////////VISIONNEUSE FIN */
+
+
+/* ///////////////////////////////ARTICLES VORTEX */
+
+#tableau_artiste
+{
+    width:850px;
+    padding-top:20px;
+    left:-25px;
+    position:relative;
+}
+
+.couv_vortex
+{
+    padding-bottom:5px;
+}
+
+.colonne
+{
+    width:240px;
+    padding:20px;
+    vertical-align : top;
+}
+
+
+/* ///////////////////////////////ARTICLES VORTEX FIN*/
+
+
+/* ///////////////////////////////FOOTER*/
+
+#footer
+{
+    background-color:#000000;
+   position:fixed;
+    bottom:0px;
+    width:100%;
+    height:65px;
+    margin:auto;
+
+    
+}
+
+.logo_footer
+{
+    display:block;
+    float:left;
+    padding:10px;
+    position:relative;
+    left:35px;
+}
+
+.credit
+{
+    position:relative;
+    left:45px;
+    top:15px;
+    color:silver;
+    font-size:90%;
+    }
+    
+.mail
+{
+    text-decoration:underline;
+    color:silver;
+}
+
+#social
+{
+
+    position:absolute;
+    right:-50px;
+    top:40px;
+    height:30px;
+    margin-top:-15px; 
+}
+
